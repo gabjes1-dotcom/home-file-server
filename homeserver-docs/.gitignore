@@ -1,0 +1,16 @@
+# Archivos sensibles — NUNCA subir al repositorio
+*.key
+*.pem
+*.password
+.env
+secrets/
+credentials/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
